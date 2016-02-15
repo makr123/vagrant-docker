@@ -1,2 +1,3 @@
 # vagrant-docker
-Vagrant box with docker installed
+
+Vagrant box with docker, docker-compose and autocomplete installed.
